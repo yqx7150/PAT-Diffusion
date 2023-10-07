@@ -4,6 +4,15 @@ X Song, G Wang, W Zhong, K Guo, Z Li, X Liu, J Dong, Q Liu
 Photoacoustics, 100558
 https://www.sciencedirect.com/science/article/pii/S2213597923001118
 
+## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
+<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png"> </div>
+
+## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
+<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png"> </div>
+
+## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
+<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png"> </div>
+
 ### Other Related Projects
      
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
