@@ -4,13 +4,13 @@ X Song, G Wang, W Zhong, K Guo, Z Li, X Liu, J Dong, Q Liu
 Photoacoustics, 100558
 https://www.sciencedirect.com/science/article/pii/S2213597923001118
 
-## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
+## Forward and reverse processes of diffusion model.
 <div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig1.png"> </div>
 
-## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
+## Sparse reconstruction flowchart of PAT.
 <div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig2.png"> </div>
 
-## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
+## The process of reconstruction of the simulated blood vessels using the proposed method under 32 projections.
 <div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig4.png"> </div>
 
 ### Other Related Projects
