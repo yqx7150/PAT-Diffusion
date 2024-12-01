@@ -1,6 +1,6 @@
 # PAT-Diffusion
-Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration
-X Song, G Wang, W Zhong, K Guo, Z Li, X Liu, J Dong, Q Liu
+Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration     
+X Song, G Wang, W Zhong, K Guo, Z Li, X Liu, J Dong, Q Liu   
 Photoacoustics, 100558
 https://www.sciencedirect.com/science/article/pii/S2213597923001118
 
