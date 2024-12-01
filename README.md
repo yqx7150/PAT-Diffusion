@@ -14,35 +14,23 @@ https://www.sciencedirect.com/science/article/pii/S2213597923001118
 <div align="center"><img src="https://github.com/yqx7150/PAT-Diffusion/blob/main/fig4.png"> </div>
 
 ### Other Related Projects
-     
-  * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
-[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9435335)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP) [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
 
-  * Universal Generative Modeling for Calibration-free Parallel MR Imaging  
-[<font size=5>**[Paper]**</font>](https://biomedicalimaging.org/2022/)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/UGM-PI)   [<font size=5>**[Poster]**</font>](https://github.com/yqx7150/UGM-PI/blob/main/paper%20%23160-Poster.pdf)
+*  Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors  
+[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202300281)         [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-MDAE)     
+
+* Score-based generative model-assisted information compensation for high-quality limited-view reconstruction in photoacoustic tomography      
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000405)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Limited-view-PAT-Diffusion)     
+
+* Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model      
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000879)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Sinogram-Diffusion)
     
-  * WKGM: Weight-K-space Generative Model for Parallel Imaging Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2205.03883)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WKGM)   [<font size=5>**[ISMRM_2022_slideliu6]**</font>](https://github.com/yqx7150/WKGM/blob/main/ISMRM_2022_slideliu6.pdf)  [<font size=5>**[ISMRM_2022_liu]**</font>](https://submissions.mirasmart.com/ISMRM2022/Itinerary/ConferenceMatrixEventDetail.aspx?ses=WE-04)
-
-* Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction  
-[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S0730725X23001224)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LR-KGM)     
-
-* Universal Generative Modeling in Dual-domain for Dynamic MR Imaging  
-[<font size=5>**[Paper]**</font>](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DD-UGM) 
-
-* Physics-Informed DeepMRI: Bridging the Gap from Heat Diffusion to k-Space Interpolation  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2308.15918)     
-   
-* Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
-[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
-
-* Multi-phase FZA lensless imaging via diffusion model      
-[<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20595&id=531211)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MLDM)  [<font size=5>**[CIIS 2023-PPT]**</font>](https://github.com/yqx7150/SHGM/tree/main)       
+ * Multiple diffusion models-enhanced extremely limited-view reconstruction strategy for photoacoustic tomography boosted by multi-scale priors  
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000636)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDM-PAT)   
+             
+* Unsupervised disentanglement strategy for mitigating artifact in photoacoustic tomography under extremely sparse view      
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000302?via%3Dihub)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-ADN)
 
 * Generative model for sparse photoacoustic tomography artifact removal      
 [<font size=5>**[Paper]**</font>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12745/1274503/Generative-model-for-sparse-photoacoustic-tomography-artifact-removal/10.1117/12.2683128.short?SSO=1)         
-
-* Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors       
-[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202300281)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-MDAE)                   
-
+    
 * PAT-public-data from NCU [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-public-data)
